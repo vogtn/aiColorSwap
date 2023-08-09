@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "AI color swap",
+  "description": "uses AI generated color palettes to change common dom elements",
+  "version": "1.0",
+  "action": {
+    "default_popup": "colorswap.html",
+    "default_icon": "icon.png"
+  }
+}
